@@ -4,7 +4,7 @@ A continuación, se presentan los enlaces correspondientes a las simulaciones de
 
 ### Tinkercad
 
-[Ver simulación en Tinkercad](https://www.tinkercad.com/things/l6p9mGVNY9m-arduino-uno)
+[Ver simulación en Tinkercad](https://www.tinkercad.com/things/jzYocMsAeiY-laboratorio-0)
 
 ### Velxio
 
