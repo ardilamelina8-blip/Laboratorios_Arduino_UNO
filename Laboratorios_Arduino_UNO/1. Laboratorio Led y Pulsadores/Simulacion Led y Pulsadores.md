@@ -5,7 +5,7 @@
 - Wokwi: https://wokwi.com/projects/475194138382900225
 
 # ON/OFF
--Tinkercad: https://www.tinkercad.com/things/iF7PUbkoYE6-onoff
--Velxio:
--Wokwi: https://wokwi.com/projects/475194825991020545
+- Tinkercad: https://www.tinkercad.com/things/iF7PUbkoYE6-onoff
+- Velxio:
+- Wokwi: https://wokwi.com/projects/475194825991020545
 
