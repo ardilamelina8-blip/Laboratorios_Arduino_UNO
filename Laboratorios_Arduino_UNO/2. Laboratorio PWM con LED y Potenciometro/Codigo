@@ -1,4 +1,4 @@
-##Potenciometro:
+Potenciometro:
 int LED = 3;
 int BRILLO;
 int POT = 0;
@@ -13,7 +13,7 @@ void loop(){
 }
 
 
-##PWM:
+PWM:
 int LED = 3;
 int BRILLO;
 
