@@ -1,4 +1,4 @@
-# Simulacion Led Pin 13
+# Simulacion PWM con LED y Potenciometro
 
 - Tinkercad: 
 - Velxio: 
