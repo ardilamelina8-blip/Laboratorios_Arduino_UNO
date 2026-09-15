@@ -1,4 +1,4 @@
-# Simulacion Led Pin 13
+# Simulacion Led y Pulsadores
 
 - Tinkercad: 
 - Velxio: 
