@@ -1,6 +1,6 @@
 # Simulacion PWM con LED y Potenciometro
-
-- Tinkercad: 
+#PWM:
+- Tinkercad: https://www.tinkercad.com/things/igjMh2dSEoo-pwm
 - Velxio: 
 - Wokwi: 
 
