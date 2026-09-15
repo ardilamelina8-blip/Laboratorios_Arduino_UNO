@@ -2,6 +2,6 @@
 
 - Tinkercad: https://www.tinkercad.com/things/2nuc9myKNn5-laboratorio-1-
 - Velxio: 
-- Wokwi: 
+- Wokwi: https://wokwi.com/projects/475194138382900225
 
 
