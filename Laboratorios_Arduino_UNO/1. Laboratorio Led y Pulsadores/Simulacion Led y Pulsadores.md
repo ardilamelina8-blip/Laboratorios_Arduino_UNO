@@ -1,6 +1,6 @@
 # Simulacion Led y Pulsadores
 
-- Tinkercad: 
+- Tinkercad: https://www.tinkercad.com/things/2nuc9myKNn5-laboratorio-1-
 - Velxio: 
 - Wokwi: 
 
