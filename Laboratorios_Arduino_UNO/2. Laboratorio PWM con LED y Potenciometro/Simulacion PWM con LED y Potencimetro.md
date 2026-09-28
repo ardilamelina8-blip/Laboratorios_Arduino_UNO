@@ -3,6 +3,6 @@
 ## PWM:
 
 - Tinkercad: https://www.tinkercad.com/things/igjMh2dSEoo-pwm
-- Velxio: 
+- Velxio: https://velxio.dev/project/67e7d937-7852-4d76-90bf-43c17f3b8481
 - Wokwi: https://wokwi.com/projects/475195559499547649
 
