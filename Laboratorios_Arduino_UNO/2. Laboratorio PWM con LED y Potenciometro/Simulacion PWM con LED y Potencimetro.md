@@ -8,5 +8,7 @@
 
 
 ##2
+-Tinkercad:
 -Velxio: https://velxio.dev/project/4f372328-0a74-47ae-afb1-2b6899b6e5b8
--wokwi:
+-wokwi:https://wokwi.com/projects/476449899067689985
+
