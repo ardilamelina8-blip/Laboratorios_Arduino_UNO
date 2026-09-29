@@ -12,7 +12,7 @@
 
  #2
 
-* **Tinkercad:**
+* **Tinkercad:** https://www.tinkercad.com/things/2oMwXv8tAg0-lab-2
 * **Velxio:** [https://velxio.dev/project/4f372328-0a74-47ae-afb1-2b6899b6e5b8](https://velxio.dev/project/4f372328-0a74-47ae-afb1-2b6899b6e5b8)
 * **Wokwi:** [https://wokwi.com/projects/476449899067689985](https://wokwi.com/projects/476449899067689985)
 
